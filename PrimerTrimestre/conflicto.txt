@@ -1,1 +1,1 @@
-Texto de la rama main.
+Texto de la rama secundaria
